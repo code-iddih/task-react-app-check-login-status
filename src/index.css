@@ -1,0 +1,37 @@
+body {
+  background-color: #000;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  color: #fff;
+}
+
+.btn-login {
+  background-color: green;
+}
+span {
+  color: green;
+}
+
+.btn-logout {
+  background-color: red;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 8px;
+  color: white;
+}
+
+.App {
+  text-align: center;
+}
+
